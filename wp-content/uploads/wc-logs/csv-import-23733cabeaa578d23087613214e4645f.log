@@ -1,0 +1,558 @@
+2017-05-21T12:08:01+00:00 DEBUG ---[ New Import ] PHP Memory: 26 MB, WP Memory: 40 MB
+2017-05-21T12:08:01+00:00 DEBUG Parsing products CSV.
+2017-05-21T12:08:01+00:00 DEBUG Finished parsing products CSV.
+2017-05-21T12:08:01+00:00 DEBUG ---
+2017-05-21T12:08:01+00:00 DEBUG Processing products.
+2017-05-21T12:08:01+00:00 DEBUG > Row 1 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;2 Piece Suit (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 2 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;3 Piece Suit (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 3 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Dress Suit (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 4 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Trousers (Silk or Linen) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 5 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Trousers (Plain) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 6 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Jacket (Silk or Linen) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 7 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Jacket (Plain) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 8 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Jacket (Puffa) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 9 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Waistcoat (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG Finished processing products.
+2017-05-21T12:08:01+00:00 DEBUG ---[ New Import ] PHP Memory: 26 MB, WP Memory: 40 MB
+2017-05-21T12:08:01+00:00 DEBUG Parsing products CSV.
+2017-05-21T12:08:01+00:00 DEBUG Finished parsing products CSV.
+2017-05-21T12:08:01+00:00 DEBUG ---
+2017-05-21T12:08:01+00:00 DEBUG Processing products.
+2017-05-21T12:08:01+00:00 DEBUG > Row 1 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Skirt (Plain) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 2 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Skirt (Long) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 3 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Skirt (Pleated) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 4 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Coat (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 5 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Dress (Plain day) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 6 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Dress (Plain lined) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 7 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Dress (Silk) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 8 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Dress (Beaded/Sequins) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 9 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Blouse (Cotton) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 10 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Blouse (Silk) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG Finished processing products.
+2017-05-21T12:08:01+00:00 DEBUG ---[ New Import ] PHP Memory: 26 MB, WP Memory: 40 MB
+2017-05-21T12:08:01+00:00 DEBUG Parsing products CSV.
+2017-05-21T12:08:01+00:00 DEBUG Finished parsing products CSV.
+2017-05-21T12:08:01+00:00 DEBUG ---
+2017-05-21T12:08:01+00:00 DEBUG Processing products.
+2017-05-21T12:08:01+00:00 DEBUG > Row 1 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Jumper (Short sleeve) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 2 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Jumper (Long sleeve) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 3 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Cardigan (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 4 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Shirt (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 5 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Scarf (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 6 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Knitwear (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 7 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Sweater (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 8 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Tie (Silk) (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 9 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Top (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG > Row 10 - preparing for import.
+2017-05-21T12:08:01+00:00 DEBUG > &#8220;Graduation Gown (Dry cleaning)&#8221;Product already exists.
+2017-05-21T12:08:01+00:00 DEBUG Finished processing products.
+2017-05-21T12:08:56+00:00 DEBUG ---[ New Import ] PHP Memory: 26 MB, WP Memory: 40 MB
+2017-05-21T12:08:56+00:00 DEBUG Parsing products CSV.
+2017-05-21T12:08:56+00:00 DEBUG Finished parsing products CSV.
+2017-05-21T12:08:56+00:00 DEBUG ---
+2017-05-21T12:08:56+00:00 DEBUG Processing products.
+2017-05-21T12:08:56+00:00 DEBUG > Row 1 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 33.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 33
+    [post_title] => 2 Piece Suit (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 2017-05-05 09:42:00
+    [post_name] => 2-piece-suit
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping BCF460802604_L_2.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 33.
+2017-05-21T12:08:56+00:00 DEBUG > Row 2 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 122.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 122
+    [post_title] => 3 Piece Suit (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 2017-06-05 15:11:00
+    [post_name] => 3-piece-suit
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping 3-p-suit.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 122.
+2017-05-21T12:08:56+00:00 DEBUG > Row 3 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 125.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 125
+    [post_title] => Dress Suit (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 2017-06-05 15:14:00
+    [post_name] => dress-suit-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping 0435e399b5d4e08fca3791c7ed82d9bc.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 125.
+2017-05-21T12:08:56+00:00 DEBUG > Row 4 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 127.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 127
+    [post_title] => Trousers (Silk or Linen) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 2017-06-05 15:17:00
+    [post_name] => trousers-silk-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping silk-trousers.jpeg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 127.
+2017-05-21T12:08:56+00:00 DEBUG > Row 5 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 189.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 189
+    [post_title] => Trousers (Plain) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => trousers-plain-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping plain_trousers.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 189.
+2017-05-21T12:08:56+00:00 DEBUG > Row 6 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 191.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 191
+    [post_title] => Jacket (Silk or Linen) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => jacket-silk-or-linen-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping ralph-lauren-blue-lauren-dolraya-silk-jacket-casual-jackets-product-1-19400168-0-448127565-normal.jpeg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 191.
+2017-05-21T12:08:56+00:00 DEBUG > Row 7 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 194.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 194
+    [post_title] => Jacket (Plain) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => jacket-plain-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping ted-baker-semi-plain-jacket-p13054-16695_medium.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 194.
+2017-05-21T12:08:56+00:00 DEBUG > Row 8 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 196.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 196
+    [post_title] => Jacket (Puffa) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => jacket-puffa-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping CT428_1_CloudZoom.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 196.
+2017-05-21T12:08:56+00:00 DEBUG > Row 9 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 198.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 198
+    [post_title] => Waistcoat (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => waistcoat-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping 297890_main.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 198.
+2017-05-21T12:08:56+00:00 DEBUG Finished processing products.
+2017-05-21T12:08:56+00:00 DEBUG ---[ New Import ] PHP Memory: 26 MB, WP Memory: 40 MB
+2017-05-21T12:08:56+00:00 DEBUG Parsing products CSV.
+2017-05-21T12:08:56+00:00 DEBUG Finished parsing products CSV.
+2017-05-21T12:08:56+00:00 DEBUG ---
+2017-05-21T12:08:56+00:00 DEBUG Processing products.
+2017-05-21T12:08:56+00:00 DEBUG > Row 1 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 200.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 200
+    [post_title] => Skirt (Plain) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => skirt-plain-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping 71AX87g5x6L._UX342_.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 200.
+2017-05-21T12:08:56+00:00 DEBUG > Row 2 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 202.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 202
+    [post_title] => Skirt (Long) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => skirt-long-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping black44330large1_grande.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 202.
+2017-05-21T12:08:56+00:00 DEBUG > Row 3 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 204.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 204
+    [post_title] => Skirt (Pleated) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => skirt-pleated-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping 3b2f157eecd02671284f770d5191af5a.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 204.
+2017-05-21T12:08:56+00:00 DEBUG > Row 4 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 206.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 206
+    [post_title] => Coat (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => coat-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:56+00:00 DEBUG > > Image exists - skipping ebc6_sev_trench_coat_red-487x600.jpg
+2017-05-21T12:08:56+00:00 DEBUG > > Images set
+2017-05-21T12:08:56+00:00 DEBUG > Finished merging post ID 206.
+2017-05-21T12:08:56+00:00 DEBUG > Row 5 - preparing for merge.
+2017-05-21T12:08:56+00:00 DEBUG > Merging post ID 208.
+2017-05-21T12:08:56+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 208
+    [post_title] => Dress (Plain day) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => dress-plain-day-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping sinequanone-lipstick-plain-sleeveless-day-dress-round-neck-product-1-959698216-normal-e1495364391757.jpeg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 208.
+2017-05-21T12:08:57+00:00 DEBUG > Row 6 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 210.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 210
+    [post_title] => Dress (Plain lined) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => dress-plain-linedplain-day-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping 0e0b92b31f472990a791bd067c680838.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 210.
+2017-05-21T12:08:57+00:00 DEBUG > Row 7 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 212.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 212
+    [post_title] => Dress (Silk) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => dress-silk-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping caf30a98b01c7a79c43fcd6eb40190ac.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 212.
+2017-05-21T12:08:57+00:00 DEBUG > Row 8 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 214.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 214
+    [post_title] => Dress (Beaded/Sequins) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => dress-beadedsequins-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping trishablacksequins-e1495364810820.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 214.
+2017-05-21T12:08:57+00:00 DEBUG > Row 9 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 217.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 217
+    [post_title] => Blouse (Cotton) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => blouse-cotton-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping High-Quality-Women-Cotton-Blouses-Elegant-White-Blouse-Front-Short-Back-Long-Style-Blouse-Lacing-Blouse.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 217.
+2017-05-21T12:08:57+00:00 DEBUG > Row 10 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 219.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 219
+    [post_title] => Blouse (Silk) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => blouse-silk-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping 8f804bd1983adf1a559f9e65044d3c31.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 219.
+2017-05-21T12:08:57+00:00 DEBUG Finished processing products.
+2017-05-21T12:08:57+00:00 DEBUG ---[ New Import ] PHP Memory: 26 MB, WP Memory: 40 MB
+2017-05-21T12:08:57+00:00 DEBUG Parsing products CSV.
+2017-05-21T12:08:57+00:00 DEBUG Finished parsing products CSV.
+2017-05-21T12:08:57+00:00 DEBUG ---
+2017-05-21T12:08:57+00:00 DEBUG Processing products.
+2017-05-21T12:08:57+00:00 DEBUG > Row 1 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 221.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 221
+    [post_title] => Jumper (Short sleeve) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => jumper-short-sleeve-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping mzz96003_grey_xl.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 221.
+2017-05-21T12:08:57+00:00 DEBUG > Row 2 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 223.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 223
+    [post_title] => Jumper (Long sleeve) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => jumper-long-sleeve-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping 39-250-402-20_oliver-bonas_fashion_lilly-long-sleeve-roll-neck-jumper.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 223.
+2017-05-21T12:08:57+00:00 DEBUG > Row 3 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 225.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 225
+    [post_title] => Cardigan (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => cardigan-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping 14792577843735984730_thumbnail_405x552.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 225.
+2017-05-21T12:08:57+00:00 DEBUG > Row 4 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 227.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 227
+    [post_title] => Shirt (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => shirt-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping The-Dry-Cleaning-Company-White-shirt-on-hanger-570x570.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 227.
+2017-05-21T12:08:57+00:00 DEBUG > Row 5 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 229.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 229
+    [post_title] => Scarf (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => scarf-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping download-1.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 229.
+2017-05-21T12:08:57+00:00 DEBUG > Row 6 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 231.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 231
+    [post_title] => Knitwear (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => knitwear-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping women-s-sweater-current-fashion-trends-2016-knitwear-knit-pullover.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 231.
+2017-05-21T12:08:57+00:00 DEBUG > Row 7 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 233.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 233
+    [post_title] => Sweater (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => sweater-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping 14762340626465554856.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 233.
+2017-05-21T12:08:57+00:00 DEBUG > Row 8 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 235.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 235
+    [post_title] => Tie (Silk) (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => tie-silk-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping beasley-pine-paisley-silk-tie-original-274854.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 235.
+2017-05-21T12:08:57+00:00 DEBUG > Row 9 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 237.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 237
+    [post_title] => Top (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => top-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping ttblackpurple._ladies-sleeveless-sports-tank-top-tshirt-womens-sports-gym-wear-set-of-2-e1495367102754.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 237.
+2017-05-21T12:08:57+00:00 DEBUG > Row 10 - preparing for merge.
+2017-05-21T12:08:57+00:00 DEBUG > Merging post ID 239.
+2017-05-21T12:08:57+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 239
+    [post_title] => Graduation Gown (Dry cleaning)
+    [post_author] => 1
+    [post_date] => 1970-01-01 00:00:00
+    [post_name] => graduation-gown-dry-cleaning
+    [post_status] => publish
+    [comment_status] => open
+)
+
+2017-05-21T12:08:57+00:00 DEBUG > > Image exists - skipping bs001-1.jpg
+2017-05-21T12:08:57+00:00 DEBUG > > Images set
+2017-05-21T12:08:57+00:00 DEBUG > Finished merging post ID 239.
+2017-05-21T12:08:57+00:00 DEBUG Finished processing products.
